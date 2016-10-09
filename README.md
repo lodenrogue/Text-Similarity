@@ -1,5 +1,5 @@
 # Text-Similarity
-Check how similar two bodies are text are
+Check how similar two bodies of text are based on word frequencies
 
 ---
 #### How to use
